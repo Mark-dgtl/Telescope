@@ -1,6 +1,5 @@
 public class Main {
 
-    // задание полей
     static double price = 14_000;
     static double account = 1000;
     static double stipend = 2500;
@@ -11,8 +10,8 @@ public class Main {
 
 
     public static void main(String[] args) {
-        System.out.println("Потребовалось " + countMonth() + " месяцев");
-        System.out.println("Осталось " + (account - price) + " монет");
+        System.out.println("ГЏГ®ГІГ°ГҐГЎГ®ГўГ Г«Г®Г±Гј " + countMonth() + " Г¬ГҐГ±ГїГ¶ГҐГў");
+        System.out.println("ГЋГ±ГІГ Г«Г®Г±Гј " + (account - price) + " Г¬Г®Г­ГҐГІ");
     }
 
 
